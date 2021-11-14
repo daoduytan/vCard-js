@@ -1,6 +1,6 @@
 {
   "name": "vcards-tandao",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vCards JS =====",
   "main": "index.js",
   "directories": {
@@ -20,7 +20,9 @@
     "url": "https://github.com/daoduytan/vCard-js/issues"
   },
   "homepage": "https://github.com/daoduytan/vCard-js#readme",
-  "dependencies": {},
+  "dependencies": {
+    "vcards-tandao": "^1.0.1"
+  },
   "devDependencies": {
     "mocha": "^9.1.3"
   }
