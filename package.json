@@ -1,0 +1,27 @@
+{
+  "name": "vcards",
+  "version": "1.0.0",
+  "description": "vCards JS =====",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daoduytan/vCard-js.git"
+  },
+  "author": "tandao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daoduytan/vCard-js/issues"
+  },
+  "homepage": "https://github.com/daoduytan/vCard-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
