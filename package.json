@@ -1,6 +1,6 @@
 {
   "name": "vcards-tandao",
-  "version": "1.0.2"
+  "version": "1.0.2",
   "description": "vCards JS", 
   "main": "index.js",
   "directories": {
